@@ -25,6 +25,8 @@ Azure
 VNet, Subnet(s), Public IP, Local Network Gateway and Virtual Network Gateway
 
 
+TO BE CONTINUE...
+
 
 
 
