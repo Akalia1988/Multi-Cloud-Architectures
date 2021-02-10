@@ -6,7 +6,9 @@ In this project we will create an AWS to Azure VPN connection with all native se
 
 Benefits of AWS
 
-For anyone who is building SaaS products or externally facing applications, Plus the Availbility. AWS has more availability zones for services like S3 and EC2 as compare to Azure. 
+1.For anyone who is building SaaS products or externally facing applications.
+
+2.AWS has more availability zones for services like S3 and EC2 as compare to Azure. 
 
 Benefits of Azure. 
 
