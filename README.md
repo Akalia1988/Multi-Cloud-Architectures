@@ -5,16 +5,18 @@ In this project we will create an AWS to Azure VPN connection with all native se
 
 
 Benefits of AWS
+
 For anyone who is building SaaS products or externally facing applications, Plus the Availbility. AWS has more availability zones for services like S3 and EC2 as compare to Azure. 
 
 Benefits of Azure. 
-The biggest thing Azure has going for it is the seamless integration with Office 365.
 
-Azure Active Directory forms the backbone for identity and security in the cloud.
+1.The biggest thing Azure has going for it is the seamless integration with Office 365.
 
-Azure functions, Logic Apps and other services integrate seamlessly with Exchange, Sharepoint, Teams or many of the tools in Azure and O365 with minimal code.
+2.Azure Active Directory forms the backbone for identity and security in the cloud.
 
-Azure also has more traditional services such as Virtual Machines, Networking, etc. If you’re only using a single cloud provider, then it makes sense to put everything in the one place and host your VMs here as well. Microsoft has services which enable you to join Windows servers to your domain via Azure AD and without VPNs, which is great for smaller businesses.
+3.Azure functions, Logic Apps and other services integrate seamlessly with Exchange, Sharepoint, Teams or many of the tools in Azure and O365 with minimal code.
+
+4.Azure also has more traditional services such as Virtual Machines, Networking, etc. If you’re only using a single cloud provider, then it makes sense to put everything in the one place and host your VMs here as well. Microsoft has services which enable you to join Windows servers to your domain via Azure AD and without VPNs, which is great for smaller businesses.
 
 
 ![image](https://user-images.githubusercontent.com/58148717/105731812-6c2fc300-5ef5-11eb-8e14-5465781daf3c.png)
